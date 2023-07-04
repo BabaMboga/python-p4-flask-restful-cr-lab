@@ -12,6 +12,7 @@ with app.app_context():
         name="Aloe",
         image="./images/aloe.jpg",
         price=11.50,
+        
     )
 
     zz_plant = Plant(
